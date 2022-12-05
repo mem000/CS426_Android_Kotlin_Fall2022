@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">User Interface</string>
+    <string name="title_activity_2">Activity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- Strings used for Snipper Test -->
+    <string-array name="Languages">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Swift</item>
+        <item>Python</item>
+        <item>Scala</item>
+        <item>Perl</item>
+    </string-array>
+    <string name="selected_item">Selected item:</string>
+
+    <!-- Strings used for RadioButton Test -->
+    <string name="checked">checked</string>
+    <string name="unchecked">unchecked</string>
+    <!-- Strings used for CheckBox Test -->
+    <string name="Heading">Services provided by GeeksforGeeks</string>
+    <string name="checkBox1">Coding contests</string>
+    <string name="checkBox2_text">Civil Engineering Courses</string>
+    <string name="checkBox1_text">Coding Contests</string>
+    <string name="checkBox3_text">Computer Science Courses</string>
+    <string name="checkBox4_text">Company specific coding questions</string>
+    <string name="checkBox5_text">Download movies</string>
+    <string name="submitButton">SUBMIT</string>
+
+</resources>
